@@ -159,11 +159,11 @@
   "devDependencies": {
     "@tutorialkit/types": "workspace:*",
     "@types/node": "20.14.11",
-    "@types/vscode": "^1.80.0",
+    "@types/vscode": "^1.96.0",
     "chokidar": "4.0.3",
     "esbuild": "^0.24.2",
-    "execa": "^9.2.0",
-    "typescript": "^5.4.5",
+    "execa": "^9.5.2",
+    "typescript": "^5.7.3",
     "zod-to-json-schema": "3.23.1"
   }
 }
