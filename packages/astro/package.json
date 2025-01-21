@@ -48,7 +48,7 @@
     "@webcontainer/api": "1.5.1",
     "astro": "^4.15.0",
     "astro-expressive-code": "^0.40.1",
-    "chokidar": "3.6.0",
+    "chokidar": "4.0.3",
     "fast-glob": "^3.3.2",
     "front-matter": "^4.0.2",
     "hastscript": "^9.0.0",
