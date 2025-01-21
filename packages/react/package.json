@@ -78,7 +78,7 @@
     "@lezer/highlight": "^1.2.0",
     "@lezer/javascript": "^1.2.0",
     "@lezer/lr": "^1.0.0",
-    "@nanostores/react": "0.7.2",
+    "@nanostores/react": "0.8.4",
     "@radix-ui/react-accordion": "^1.2.0",
     "@radix-ui/react-context-menu": "^2.2.1",
     "@radix-ui/react-dialog": "^1.1.1",
