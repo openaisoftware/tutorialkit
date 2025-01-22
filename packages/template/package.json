@@ -23,7 +23,7 @@
     "@tutorialkit/types": "workspace:*",
     "@types/node": "^20.17.14",
     "@types/react": "^18.3.18",
-    "astro": "^4.16.18",
+    "astro": "^5.1.8",
     "prettier-plugin-astro": "^0.14.1",
     "typescript": "^5.7.3"
   }
