@@ -228,8 +228,8 @@ importers:
         specifier: 2.3.4
         version: 2.3.4
       '@volar/language-service':
-        specifier: 2.3.4
-        version: 2.3.4
+        specifier: 2.4.11
+        version: 2.4.11
       '@volar/vscode':
         specifier: 2.3.4
         version: 2.3.4
@@ -241,7 +241,7 @@ importers:
         version: 4.0.3
       volar-service-yaml:
         specifier: volar-2.3
-        version: 0.0.54(@volar/language-service@2.3.4)
+        version: 0.0.54(@volar/language-service@2.4.11)
       vscode-languageclient:
         specifier: ^9.0.1
         version: 9.0.1
@@ -11731,12 +11731,12 @@ snapshots:
     optionalDependencies:
       '@volar/language-service': 2.4.11
 
-  volar-service-yaml@0.0.54(@volar/language-service@2.3.4):
+  volar-service-yaml@0.0.54(@volar/language-service@2.4.11):
     dependencies:
       vscode-uri: 3.0.8
       yaml-language-server: 1.15.0
     optionalDependencies:
-      '@volar/language-service': 2.3.4
+      '@volar/language-service': 2.4.11
 
   volar-service-yaml@0.0.62(@volar/language-service@2.4.11):
     dependencies:
