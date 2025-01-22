@@ -410,8 +410,8 @@ importers:
   packages/cli:
     dependencies:
       '@babel/generator':
-        specifier: 7.24.5
-        version: 7.24.5
+        specifier: 7.26.5
+        version: 7.26.5
       '@babel/parser':
         specifier: 7.26.5
         version: 7.26.5
@@ -6077,7 +6077,7 @@ snapshots:
 
   '@babel/parser@7.24.5':
     dependencies:
-      '@babel/types': 7.24.5
+      '@babel/types': 7.26.5
 
   '@babel/parser@7.26.5':
     dependencies:
@@ -6153,7 +6153,7 @@ snapshots:
   '@babel/traverse@7.24.5':
     dependencies:
       '@babel/code-frame': 7.26.2
-      '@babel/generator': 7.24.5
+      '@babel/generator': 7.26.5
       '@babel/helper-environment-visitor': 7.24.7
       '@babel/helper-function-name': 7.24.7
       '@babel/helper-hoist-variables': 7.24.7
