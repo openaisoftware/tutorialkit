@@ -49,7 +49,7 @@
     "@types/fs-extra": "^11.0.4",
     "@types/node": "^20.17.14",
     "@types/yargs-parser": "^21.0.3",
-    "esbuild": "^0.24.2",
+    "esbuild": "^0.25.0",
     "esbuild-node-externals": "^1.16.0",
     "fs-extra": "^11.3.0",
     "tempy": "^3.1.0",
