@@ -30,7 +30,7 @@
     "template/.gitignore"
   ],
   "dependencies": {
-    "@babel/generator": "7.24.5",
+    "@babel/generator": "7.26.9",
     "@babel/parser": "7.26.5",
     "@babel/traverse": "7.24.5",
     "@babel/types": "7.26.5",
